@@ -11,7 +11,8 @@ git commit -m "slave to his own conviction"
 git branch -M main
 
 # Setting the remote reposistory
-git remote add origin https://github.com/Meshp/Deadspaced.git
+git remote set-url origin git@github.com:MeshPark/Deadspace.git
+git remote -v
 
 # Pushing to the remote repository
 git push -u origin main
