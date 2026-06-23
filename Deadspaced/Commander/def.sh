@@ -6,6 +6,7 @@ git add . # To add all files
 
 # Commiting
 git commit -m "slave to his own conviction"
+git status
 
 # Setting the branch
 git branch -M main
